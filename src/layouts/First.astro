@@ -1,0 +1,13 @@
+---
+interface Props {
+    name: string;
+    age: number;
+}
+
+const { name, age } = Astro.props;
+---
+
+<div>
+    <p>{ name }</p>
+    <p>{ age }</p>
+</div>

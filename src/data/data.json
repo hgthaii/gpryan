@@ -1,0 +1,21 @@
+{
+    "name": "gpryan",
+    "title": "Blog của gpryan",
+    "description": "I'm a full stack developer who loves to craft interactive designs✨ with modern web technologies. Currently learning backend and databases (Go🧩, MongoDB🍃) while also solidifying my already acquired knowledge of front-end🎨 development.",
+    "age": 23,
+    "location": "Hochiminh, Vietnam",
+    "email": "hoangthai.txt@gmail.com",
+    "phone": "+84 983 123 456",
+    "socials": {
+        "github": "https://github.com/hgthaii",
+        "linkedin": "https://linkedin.com/in/hgthaii/",
+        "facebook": "https://facebook.com/hgthaii",
+        "instagram": "https://instagram.com/hgthaii/"
+    },
+    "tech-stack": {
+        "frontend": ["HTML5", "CSS3", "JavaScript", "React", "Angular", "Sass", "Bootstrap5", "VanillaJS", "TypeScript", "Astro"],
+        "backend": ["Node.js", "Express", ".NET Core", "Java", "PHP"],
+        "database": ["MongoDB", "MySQL", "SQL Server", "Oracle"],
+        "tools": ["Git", "VS Code", "Postman", "Figma", "IntelliJ", "Docker", "Jenkins", "Jira", "Visual Studio"]
+    }
+}
